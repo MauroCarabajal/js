@@ -6,15 +6,15 @@ let products = [
       size: ["1.0", "2.0", "3.0"],
     },
     {
-      name: "Missouri",
+      name: "missouri",
       size: ["1.0", "2.0", "3.0"],
     },
     {
-      name: "Texas",
+      name: "texas",
       size: ["1.0", "2.0", "3.0"],
     },
     {
-      name: "Ohio",
+      name: "ohio",
       size: ["1.0", "2.0", "3.0"],
     },
   ];
